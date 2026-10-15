@@ -1,7 +1,7 @@
 # Cortex for Mac — downloads
 
 **Readiness for your mind.** Your watch knows if your body is ready; Cortex knows if your mind is, and protects it.
-This repository only hosts the app downloads. Website: https://cortex-mind-rho.vercel.app
+This repository only hosts the app downloads.
 
 ## Install
 
