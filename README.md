@@ -11,8 +11,8 @@ This repository only hosts the app downloads.
    **System Settings → Privacy & Security** and choose **Open Anyway**.
 4. First launch installs Python and the on-device libraries (about 1.5 GB), then the speech and voice
    models (about 2 GB). Once, into `~/Library/Application Support/Cortex`.
-5. Optional: **Settings (⌘,)** → paste your own Anthropic API key to turn on the Claude coach and recall
-   grading. It's encrypted with your macOS Keychain. Without a key, Cortex runs fully on-device.
+5. Optional: paste your own Anthropic API key on **Home** (or in **Settings**, ⌘,) to turn on the Claude
+   coach and recall grading. It's encrypted with your macOS Keychain. Without a key, Cortex runs fully on-device.
 
 **Requirements:** an Apple Silicon Mac (M1 or later).
 
